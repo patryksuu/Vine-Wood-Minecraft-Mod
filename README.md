@@ -1,4 +1,3 @@
-<title>Tutorial</title>
 
 <h1>Tutorial</h1>
 
