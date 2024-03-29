@@ -5,3 +5,5 @@
 Go to releases!</p>
 
 <a href="https://github.com/patryksuu/Vine-Wood-Minecraft-Mod/releases">Download here!</a>
+
+<big><p>Crafting:</p></big>
