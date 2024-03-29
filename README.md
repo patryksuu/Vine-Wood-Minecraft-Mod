@@ -1,7 +1,7 @@
 
 
 
-<h1>Want to download?
-Go to releases!</h1>
+<p>Want to download?
+Go to releases!</p>
 
-<button
+<a href="https://github.com/patryksuu/Vine-Wood-Minecraft-Mod/releases">Download here!</a>
